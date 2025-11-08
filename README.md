@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me
-- 💻 First-year **CSE student** at **Gargi Memorial Institute of Technology**
+- 💻 Second-year **CSE student** at **Gargi Memorial Institute of Technology/MAKAUT**
 - ⚡ Exploring **web development**, **product design**, and **UI/UX principles**
 - 🚀 Learning to build impactful digital experiences with clean, functional design
 - 🎥 Passionate about **filmmaking, photography**, and creative storytelling
@@ -32,18 +32,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishmlens&show_icons=true&theme=tokyonight" alt="Anish's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishmlens&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahammadanish321&show_icons=true&theme=tokyonight" alt="Anish's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadanish321&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahammad-anis/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahammad-anish-41aa70314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anishmlens@gmail.com">
+  <a href="mailto:anish130905@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
