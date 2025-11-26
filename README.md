@@ -51,11 +51,12 @@
   <a href="https://www.linkedin.com/in/mahammad-anish-41aa70314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anish130905@gmail.com">
+  <a href="mailto:anish130905@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ <em>“Design meets logic — that’s where my creativity truly comes alive.”</em>
+⭐ *“Design meets logic — that’s where my creativity truly comes alive.”*
+
