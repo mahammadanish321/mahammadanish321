@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me
-- 💻 Second-year **CSE student** at **Gargi Memorial Institute of Technology/MAKAUT**
+- 💻 Second-year **CSE student** at **Gargi Memorial Institute of Technology (MAKAUT)**
 - ⚡ Exploring **web development**, **product design**, and **UI/UX principles**
 - 🚀 Learning to build impactful digital experiences with clean, functional design
 - 🎥 Passionate about **filmmaking, photography**, and creative storytelling
@@ -32,8 +32,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahammadanish321&show_icons=true&theme=tokyonight" alt="Anish's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadanish321&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mahammadanish321&show_icons=true&theme=tokyonight" 
+    alt="Anish's GitHub stats" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadanish321&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    height="180"
+  />
 </p>
 
 ---
@@ -50,4 +58,4 @@
 
 ---
 
-⭐ *“Design meets logic — that’s where my creativity truly comes alive.”*
+⭐ <em>“Design meets logic — that’s where my creativity truly comes alive.”</em>
