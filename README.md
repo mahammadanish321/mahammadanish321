@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=38BDAE&width=700&lines=Mahammad+Anish;Designer+Minded+Developer;UI%2FUX+Enthusiast+%7C+CSE+Student;Creating+Clean+%26+Visual+Digital+Experiences" />
 </p>
@@ -19,15 +5,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadanish321&theme=react-dark&hide_border=true&radius=8" width="90%" />
+</p>
+
+
+--- 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahammadanish321&theme=tokyonight" width="90%" />
 </p>
 
---- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadanish321&theme=react-dark&hide_border=true&radius=8" width="90%" />
-</p>
 
 ---
 
